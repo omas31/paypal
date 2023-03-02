@@ -16,3 +16,5 @@ Sean
 Araoluwa
 Oluwaseyi
 Group member should be aware of codes
+
+this is a PHPMYSQL contribution
